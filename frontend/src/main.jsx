@@ -10,7 +10,7 @@ const API =
 
   import.meta.env.VITE_API_URL ||
 
-  "http://10.21.100.67:8000";
+  "http://127.0.0.1:8000";
 
 
 
